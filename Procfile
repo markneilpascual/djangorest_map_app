@@ -1,0 +1,1 @@
+web: gunicorn djangorest_map_app.wsgi --log-file=-
